@@ -1,0 +1,21 @@
+IMAGE ANALYSIS REPORT
+====================
+
+Image Information
+-----------------
+Width: 625
+Height: 527
+Channels: 3
+Data Type: uint8
+
+Detected Objects
+----------------
+Object ID: 1
+Area: 328224.0
+Bounding Box X: 0
+Bounding Box Y: 0
+Width: 625
+Height: 527
+-----------------
+
+Total Objects: 1
