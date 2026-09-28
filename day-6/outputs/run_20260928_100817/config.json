@@ -1,0 +1,16 @@
+{
+  "data_dir": "C:\\Users\\PC-LAB1\\Desktop\\New folder\\day 5\\dogs-vs-cats\\train\\train",
+  "output_dir": "outputs",
+  "img_size": 128,
+  "per_class": 1000,
+  "test_size": 0.2,
+  "val_size": 0.2,
+  "batch_size": 32,
+  "epochs": 40,
+  "learning_rate": 0.001,
+  "dropout": 0.5,
+  "l2": 0.0001,
+  "seed": 42,
+  "workers": 8,
+  "show": true
+}
