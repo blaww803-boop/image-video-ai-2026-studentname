@@ -1,0 +1,18 @@
+{
+  "data_dir": "C:\\Users\\PC-LAB1\\Desktop\\New folder\\day 5\\dogs-vs-cats\\train\\train",
+  "output_dir": "outputs",
+  "img_size": 128,
+  "per_class": 0,
+  "test_size": 0.2,
+  "val_size": 0.2,
+  "batch_size": 64,
+  "epochs": 5,
+  "learning_rate": 0.001,
+  "resume_from": "outputs\\run_20260928_095655\\best_model.keras",
+  "resume_lr": 0.0003,
+  "dropout": 0.5,
+  "l2": 0.0001,
+  "seed": 42,
+  "workers": 8,
+  "show": true
+}

@@ -1,0 +1,6 @@
+﻿day-4/results/*.mp4
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+**/.venv/
+*.keras
