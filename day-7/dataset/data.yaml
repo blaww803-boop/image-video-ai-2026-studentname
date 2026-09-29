@@ -1,0 +1,6 @@
+path: C:\Users\PC-LAB1\Desktop\MHB\day-7\dataset
+train: train/images
+val: test/images
+
+nc: 1
+names: ["license_plate"]
