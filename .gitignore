@@ -1,10 +1,14 @@
-﻿day-4/results/*.mp4
+﻿# Python environments
 .venv/
-__pycache__/
-.ipynb_checkpoints/
-**/.venv/
-*.keras
+day-6/.venv/
+day-9/paddle_env/
+
+# Videos
 *.mp4
 *.avi
 *.mov
 *.mkv
+
+# Python cache
+__pycache__/
+*.pyc
